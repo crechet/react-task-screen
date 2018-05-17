@@ -1,0 +1,9 @@
+.header {
+    padding: 1em;
+}
+
+.header-text {
+    margin: 0;
+    font-size: 2em;
+    color: white;
+}

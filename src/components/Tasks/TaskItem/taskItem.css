@@ -1,0 +1,24 @@
+.task {
+    transition: background-color .3s;
+    cursor: pointer;
+}
+
+.task:hover {
+    background-color: #eceff1;
+}
+
+.task-details {
+    cursor: default;
+}
+
+.task-title {
+    font-size: 1.2em;
+}
+
+.task-info {
+    margin-bottom: .6em;
+}
+
+.task-label {
+    font-weight: 700;
+}
